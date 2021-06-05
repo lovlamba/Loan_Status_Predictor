@@ -1,5 +1,5 @@
 # Loan Status Predictor
-<h4>Loan status predictor is a web application which predicts the the status of the loan using a machine learning algorithm. Then main aim of the application is to predict that either the loan of the user can be approved or not So that users can alter the parameters accordindly. I have applied a small aspects of somewhat everything such as data analysis, machine learning & web devlopment to build this project. After learning a little bit of applied data science, i was very excited to build some real life project using it & therfore i had decided to built this project </h4>
+<h4>Loan status predictor is a web application which predicts the the status of the loan using a machine learning algorithm. Then main aim of the application is to predict that either the loan of the user can be approved or not So that users can alter the parameters accordindly. I have applied a small aspects of somewhat everything such as data analysis, machine learning & web devlopment to build this project. After learning a little bit of applied data science, i was very excited to build some real life project using it & therfore i had decided to built this project.</h4>
 
 ## Technology Stack / Python Libraries
 #### Data Analysis
