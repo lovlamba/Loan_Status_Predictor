@@ -1,21 +1,19 @@
 # Loan Status Predictor
 <h4>Loan status predictor is a web application which predicts the the status of the loan using a machine learning algorithm. Then main aim of the application is to predict that either the loan of the user can be approved or not So that users can alter the parameters accordindly. I have applied a small aspects of somewhat everything such as data analysis, machine learning & web devlopment to build this project. After learning a little bit of applied data science, i was very excited to build some real life project using it & therfore i had decided to built this project </h4>
 
-## Libraries Used
-### For Data Analysis
+## Technology Stack / Python Libraries
+#### Data Analysis
 * Pandas
 * Seaborn/Matplotlib
-### For Machine Learning
+#### Machine Learning
 * Sci-kit learn
-
-## Tools used
-## For Data Science
-* Jupyter Notebook
-## Frontend
+#### Frontend
 * HTML
 * CSS
-## Backend
+#### Backend
 * Django
+#### Other tool
+* Jupyter Notebook
 
 ## Folder Structure
 In our repository, we have 4 folders & 2 files. Lets see the funtionality of them one by one :-
